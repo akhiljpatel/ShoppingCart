@@ -1,0 +1,58 @@
+{
+  "Shirt": [
+    {
+      "id":"01",
+      "name":"Jhon Playes Men's Striped Casual Shirt" , 
+      "size":["XS","S","M","L","XL"] , 
+      "price": 719,
+      "image":"src/assets/Images/product_1.png",
+      "t_image_1":"src/assets/Images/product_1_thumb.png",
+      "t_image_2":"src/assets/Images/product_2_thumb.png",
+      "t_image_3":"src/assets/Images/product_3_thumb.png"
+
+    },
+    {
+      "id":"02",
+      "name":"Jhon Playes Men's Striped Casual Shirt" , 
+      "size":["XS","S","M","L","XL"] , 
+      "price": 719,
+      "image":"src/assets/Images/product_1.png",
+      "t_image_1":"src/assets/Images/product_1_thumb.png",
+      "t_image_2":"src/assets/Images/product_2_thumb.png",
+      "t_image_3":"src/assets/Images/product_3_thumb.png"
+
+    },
+    {
+      "id":"03",
+      "name":"Jhon Playes Men's Striped Casual Shirt" , 
+      "size":["XS","S","M","L","XL"] , 
+      "price": 719,
+      "image":"src/assets/Images/product_1.png",
+      "t_image_1":"src/assets/Images/product_1_thumb.png",
+      "t_image_2":"src/assets/Images/product_2_thumb.png",
+      "t_image_3":"src/assets/Images/product_3_thumb.png"
+    }
+  ],
+  "Shoes":[
+    {
+      "id":"04",
+      "name":"Shoes Jhon Playes Men's Striped Casual" , 
+      "size":["XS","S","M","L","XL"] , 
+      "price": 719,
+      "image":"src/assets/Images/product_1.png",
+      "t_image_1":"src/assets/Images/product_1_thumb.png",
+      "t_image_2":"src/assets/Images/product_2_thumb.png",
+      "t_image_3":"src/assets/Images/product_3_thumb.png"
+    },
+    {
+      "id":"05",
+      "name":"Shoes Jhon Playes Men's Striped Casual" , 
+      "size":["XS","S","M","L","XL"] , 
+      "price": 719,
+      "image":"src/assets/Images/product_1.png",
+      "t_image_1":"src/assets/Images/product_1_thumb.png",
+      "t_image_2":"src/assets/Images/product_2_thumb.png",
+      "t_image_3":"src/assets/Images/product_3_thumb.png"
+    }
+  ]
+}
